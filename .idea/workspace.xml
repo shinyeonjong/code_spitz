@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb10d2e2-ecca-45c9-82a5-2f677914a0d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QJqXu8Zzg8yN5qybCkb0er6oz9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/l3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hika0\Desktop\개발\codespitz\codespitz84\src\main\java\l3" />
+      <recent name="C:\Users\hika0\Desktop\codespitz84\src\main\java\l1_3" />
+      <recent name="C:\Users\hika0\Desktop\codespitz84\src\main\java\l1_2" />
+      <recent name="C:\Users\hika0\Desktop\codespitz84\src\main\java" />
+      <recent name="C:\Users\hika0\Desktop\codespitz84\src\main\java\l1_1" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="l3.calc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="l3.calc" />
+      <recent name="l1_0" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="l3.calc" />
+      <recent name="l1_3" />
+      <recent name="l1_0" />
+      <recent name="l1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="codespitz84.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb10d2e2-ecca-45c9-82a5-2f677914a0d8" name="Default Changelist" comment="" />
+      <created>1567499089782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567499089782</updated>
+      <workItem from="1567499091678" duration="3120000" />
+      <workItem from="1567502731486" duration="5889000" />
+      <workItem from="1568104009198" duration="8682000" />
+      <workItem from="1568714075401" duration="2984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
